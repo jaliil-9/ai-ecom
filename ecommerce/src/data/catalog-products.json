@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nike Air Max Running Shoes",
+      "category": "shoes",
+      "price": 79.99,
+      "description": "Comfortable running shoes with air cushioning",
+      "brand": "Nike",
+      "color": "black",
+      "image": "/assets/products/nike-shoes.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Adidas Classic T-Shirt",
+      "category": "clothing",
+      "price": 29.99,
+      "description": "Cotton classic fit t-shirt",
+      "brand": "Adidas",
+      "color": "white",
+      "image": "/assets/products/adidas-tshirt.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Puma Sports Backpack",
+      "category": "accessories",
+      "price": 45.99,
+      "description": "Durable sports backpack with multiple compartments",
+      "brand": "Puma",
+      "color": "blue",
+      "image": "/assets/products/puma-backpack.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Under Armour Running Shorts",
+      "category": "clothing",
+      "price": 34.99,
+      "description": "Breathable running shorts with moisture-wicking",
+      "brand": "Under Armour",
+      "color": "gray",
+      "image": "/assets/products/ua-shorts.jpg"
+    },
+    {
+      "id": "5",
+      "name": "New Balance Walking Shoes",
+      "category": "shoes",
+      "price": 89.99,
+      "description": "Comfortable walking shoes with arch support",
+      "brand": "New Balance",
+      "color": "white",
+      "image": "/assets/products/nb-shoes.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Nike Dri-FIT Hoodie",
+      "category": "clothing",
+      "price": 65.99,
+      "description": "Moisture-wicking hoodie for athletes",
+      "brand": "Nike",
+      "color": "black",
+      "image": "/assets/products/nike-hoodie.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Adidas Sports Watch",
+      "category": "accessories",
+      "price": 129.99,
+      "description": "Digital sports watch with heart rate monitor",
+      "brand": "Adidas",
+      "color": "black",
+      "image": "/assets/products/adidas-watch.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Reebok Training Shoes",
+      "category": "shoes",
+      "price": 69.99,
+      "description": "Versatile training shoes for gym workouts",
+      "brand": "Reebok",
+      "color": "gray",
+      "image": "/assets/products/reebok-shoes.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Puma Track Pants",
+      "category": "clothing",
+      "price": 49.99,
+      "description": "Comfortable track pants for running",
+      "brand": "Puma",
+      "color": "navy",
+      "image": "/assets/products/puma-pants.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Under Armour Gym Bag",
+      "category": "accessories",
+      "price": 39.99,
+      "description": "Spacious gym bag with shoe compartment",
+      "brand": "Under Armour",
+      "color": "black",
+      "image": "/assets/products/ua-bag.jpg"
+    }
+  ]
+}
